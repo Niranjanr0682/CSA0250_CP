@@ -1,0 +1,91 @@
+   1. Write a C program to input three numbers from user and find maximum between three numbers using 
+    conditional/ternary operator ?:. How to find maximum between three numbers using conditional 
+    operator.
+    .                                           ans : asq1.c
+
+    2. Write a C program to input a character and check whether the character is alphabet or not using
+    Conditional/Ternary operator ?:. How to check alphabets using conditional operator in C programming.
+    .                                           ans : asq12.c
+
+    3. Write a C program to find sum of all odd numbers from 1 to n using for loop. How to find sum of
+    all odd numbers in a given range in C programming. Logic to find sum of odd numbers in a given 
+    range using loop in C programming.
+    .                                           ans : asq3.c
+
+    4. Write a C program to find maximum occurring character in a string using loop. How to find highest
+    frequency character in a string using loop in C programming. Program to find the highest occurring 
+    character in a string in C. Logic to find maximum occurring character in a string in C programming.
+    .                                           ans : asq4.c
+
+    5. Find Error/Output in follwing code:
+            #include <stdio.h> 
+            int tmp=20; 
+            main( ) 
+            {   printf("%d ",tmp);    
+                func( );    
+                printf("%d ",tmp); 
+            } 
+            func() 
+            {   static int tmp=10;    
+                printf("%d ",tmp); 
+            }                                   ans : asq5.c
+
+    6. Find Error/Output in follwing code:
+
+            main() 
+            {
+                int a = 10;      
+                if ((fork ( ) == 0))      
+                a++;      
+                printf ("%dn", a ); 
+            }                                   ans : asq6.c
+
+    7. What is the code in a while loop that returns the output of the given code?
+
+            #include <stdio.h>
+            int main () 
+            {
+                int a;
+                /* for loop execution */
+                for( a = 1; a <= 100; a++ )
+                    {printf("%d\n",a * a);}
+                return 0;
+            }                                   ans : asq7.c
+
+    8. What will be the output of the program if the array begins 1200 in memory?
+            
+            #include<stdio.h>
+            int main()
+            {   
+                int arr[]={2, 3, 4, 1, 6};  
+                printf("%u, %u, %un", arr, &arr[0], &arr);  
+                return 0;
+            }                                   ans : asq8.c
+            
+    9. What will be the output of the program ?
+          
+            #include<stdio.h>
+            void fun(int **p);
+            int main()
+            {   
+                int a[3][4] = {1, 2, 3, 4, 4, 3, 2, 8, 7, 8, 9, 0}; 
+                int *ptr; 
+                ptr = &a[0][0];  
+                fun(&ptr); 
+                return 0;
+            }
+            void fun(int **p)
+            {
+                printf("%dn", **p);
+            }                                   ans : asq9.c
+
+    10.	Write a program that would sort a list of names in alphabetical order Ascending 
+    or Descending, choice get from the user?
+            
+            Sample Input:       
+                Banana          sample output : 
+                Carrot          Apple
+                Radish          Banana
+                Apple           Carrot
+                Jack            Jack
+Order(A/D) : A                  Radish         ans : asq10.c
