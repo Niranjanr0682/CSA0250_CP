@@ -1,0 +1,12 @@
+    1.compile and execute the c program to find the laregst and smallest among 3 input numbers
+		ans : larofnos.c
+
+	2.compile and execute the c program to compute grade of students using if else ladder the grades are assigned 
+	as 				marks			grades
+					<50			    F
+					50<=m<60		C	
+					60<=m<70		B
+					70<=m<80		B+
+					80<=m<90		A
+					90<=m<=100		A+
+		ans : grdsys.c

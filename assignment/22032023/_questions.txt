@@ -1,0 +1,10 @@
+    1.compile and execute the c program to calculate arithmatic operators functions such as pow(x,n),add(x,n),
+	sum(x,n) mul(x,n) div(x,n) where x and n are the twu operands. get the input choice from the user.
+		ans :a1.c
+
+	2.compile and execute the c program to change all the digits of the number to bring the digit at the last
+	position to the first position and vise versa using loop get the input from the user 
+		ans : a2.c
+
+	3. compile and execute the c program to find the factorial of the positive integer
+		ans : a3.c
