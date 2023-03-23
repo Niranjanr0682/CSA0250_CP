@@ -1,3 +1,5 @@
+// What will be the output of following c program?
+
 #include<stdio.h>
 #include<conio.h>
 float avg(float,float,float);

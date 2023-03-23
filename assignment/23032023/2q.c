@@ -1,5 +1,6 @@
 // 2. What will be the output if you execute the following code in C?
 
+/*
 #include<stdio.h>
 #include<conio.h>
 
@@ -13,6 +14,7 @@ int f(int num)
 {
     return num*5;
 }
+*/
 
 
 /* output for the above code is
@@ -36,3 +38,5 @@ int f(int num)
 {
     return num*5;
 }
+
+// the out for the program is '9 1'

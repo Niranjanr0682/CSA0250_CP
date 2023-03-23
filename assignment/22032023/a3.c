@@ -1,3 +1,5 @@
+// compile and execute the c program to find the factorial of the positive integer
+
 #include<stdio.h>  
 int main()    
 {    

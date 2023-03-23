@@ -1,3 +1,13 @@
+/*
+  Print the following hill pattern , 
+	  Each line contains n characters = space+number
+            When n=5
+                    1        
+                  1 2
+                1 2 3
+              1 2 3 4
+            1 2 3 4 5 */ 
+
 #include <stdio.h>  
 #include <conio.h>  
 void main()  

@@ -28,3 +28,5 @@ void display(char *string)
 printf("%s",string);
 }
 
+/*the output for the above code is 
+    Hello World*/

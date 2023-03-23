@@ -1,3 +1,6 @@
+/*compile and execute the c program to change all the digits of the number to bring the digit at the last
+	position to the first position and vise versa using loop get the input from the user*/
+
 // #include <stdio.h>
 
 // int main() {

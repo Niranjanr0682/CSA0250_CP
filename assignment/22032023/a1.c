@@ -1,3 +1,7 @@
+/*compile and execute the c program to calculate arithmatic operators functions such as pow(x,n),add(x,n),
+sum(x,n) mul(x,n) div(x,n) where x and n are the twu operands. get the input choice from the user.*/
+
+
 #include <stdio.h>
 #include <math.h>
 

@@ -1,3 +1,5 @@
+// compile and execute the c program to find the laregst and smallest among 3 input numbers
+
 #include<stdio.h>
 int main()
 {
