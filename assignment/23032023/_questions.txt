@@ -53,7 +53,7 @@
                 for(j=0;j<5;j++){
                 printf(" %d ",*p);
                 ++p; }
-            }
+            }                                               ans : 5q.c
 
 	6. Predict the output or error(s) for the following program:
             main()
@@ -64,7 +64,7 @@
             void display(char *string)
             {
                 printf("%s",string);
-            }
+            }                                               ans : 6q.c
 
 	7. Print the following hill pattern , 
 	Each line contains n characters = space+number
@@ -73,11 +73,11 @@
                   1 2
                 1 2 3
               1 2 3 4
-            1 2 3 4 5
+            1 2 3 4 5                                       ans : 7q.c
 
 	
     8.  Find the index  of first occurrence of X in the array of N elements,
-        if the element not present then print -1
+        if the element not present then print -1            ans : 8q.c
 
 	9. What will be output of following c program?
 
@@ -95,7 +95,7 @@
                 p1=&s1;
                 p=memchr(p1,'u',sizeof(STU1));
                 printf("%s",p);  
-            }
+            }                                               ans : 9q.c
 
 	10. Predict the output or error(s) for the following program:
             #define square(x) x*x
@@ -104,4 +104,4 @@
                 int i;
                 i = 64/square(4);
                 printf("%d",i);
-            }
+            }                                               ans : 10q.c
