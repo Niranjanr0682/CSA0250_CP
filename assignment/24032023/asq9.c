@@ -11,9 +11,7 @@
                 return 0;
             }
             void fun(int **p)
-            {
-                printf("%d\n", **p);
-            }
+                {printf("%d\n", **p);}
 
 
 // THE OUTPUT FOR THE FOLLOWING CODE IS '1'
