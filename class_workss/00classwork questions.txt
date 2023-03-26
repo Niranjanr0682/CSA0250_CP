@@ -1,0 +1,152 @@
+Class worked questions:
+
+	1. 	write a program to check whether the number dividable by 2 then print the given number is
+ 		even other wise odd check and disply the out put on screen.
+		ans : 01.c
+
+	2. 	write a program to find wether the person is eligible for vote or not and if that particular person is
+	 	not eligible then print how many years are left to be eligible.
+		ans : 02.c
+	
+	3.  write a program to find the area of the rectangle.
+		ans : 03.c
+
+	4.  write a program to calculate simple interest.
+		ans : 04.c
+
+	5.  write a program to find the fair for travelling 30 km and the cost is 12rs/km and to give 
+		output with the from to places ,total km, total fair.
+		ans : 05.c 
+
+	6.  write a program to find the similarity between them numbers.
+		ans : 06.c 
+
+	7.  write a program to check if the year is leap year or not.
+		ans : 07.c
+	
+	8.  write a program to read the n number of values in an array and display them in reverse order.
+		ans : 08.c
+	
+	9.  write a program to store elements in an array and print them.
+		ans : 09.C
+
+	10. write a program to find the sum of all elements of the array.
+		ans : 10.c
+
+	11. write a program to copy the elements of array into another array.
+		ans : 11.c
+
+	12. wirte a program to read 10 numbers from the keyboard and find the sum and average of the given numbers.
+		ans : 12.c
+
+	13. write a program to display the cube of numbers upto an integer.
+		ans : 13.c
+
+	14. write a program to display the multiplication of the given number ,ger the input form the user.
+		ans : 14.c
+
+	15. write a program to add two string using strcat() function and get input from the user.
+		ans : 15.c
+
+	16. write a program to compare two strings using the strcmp() function,get the input from the user.
+		ans : 16.c
+
+	17. write a program to print the given string and its exact length ,get the input from the user.
+		ans : 17.c
+
+	18. wirte a program to count the number of vowels in a given string, get the input from the user.
+		ans : 18.c
+
+	19. write a program to copy the given string and to give the length of both strings.
+		ans : 19.c
+
+	20. write a program to print ascii value.
+		ans : 20.c
+
+	21. write a program to find the frequency of the character in string.
+		ans : 21.c
+
+	22. write a program to tell whether the given character is vowels or consonant or not alphabet,
+	get input from the user.
+		ans : 22.c
+
+	23. write a Program to Count the number of vowels, consonants, digits, and white-spaces in a 
+	string entered by the user.
+		ans : 23.C
+
+	24. write a program to print the english alphabet.
+		ans : 24.c
+
+	25. write a program to print half pramid of stars.
+		ans : 25.c
+
+	26. write a program to print half pramid of numbers.
+		ans : 26.c
+
+	27. write a program to print half pramid of alphabets.
+		ans : 27.c
+
+	28. write a program to print inverted half pramid of stars.
+		ans : 28.c
+
+	29. write a program to print inverted half pramid of numbers.
+		ans : 29.c
+
+	30. wirte a program to print full pramid of stars.
+		ans : 30.c
+
+	31. write a program to print inverted full pramid of stars.
+		ans : 31.C
+
+	32. write a program to print pascal triangle.
+		ans : 32.c
+
+	33. write a program to find gcd of two numbers.
+		ans : 33.c
+
+	34. write a program to find the largest two numbers from the given array.
+		ans : 34.c
+
+	35. write a program to swap the two elements using call by reference.
+		ans : 35.c
+
+	36. write a program to find the power of number upto n number of elements using loop.
+		ans : 36.c 
+
+	37. write a program to find the factorial of the given number using function.
+		ans : 37.c
+
+	38. write a Program to find maximum and minimum occurring character in a string.
+		ans : 38.c
+
+	39. write a program to do arithmetic operations as per user choice using function.
+		ans : 39.c
+
+	40 .write a program to swap the two elementsusing call by value.
+		ans : 40.c
+
+	41 .write a program to get a matrix value as input and print the matrix.
+		ans : 41.c	
+	
+	42 .write a program to do matrix addition.
+		ans : 42.c 
+
+	43 .write a program to do matrix multiplication.
+		ans : 42.c
+
+	44 .write a program to do matrix subtraction.
+		ans : 44.c
+
+	45 .write a program to do square matrix.
+		ans : 45.c 
+
+	46 .write a program to do sum of three matrix.
+		ans : 46.c
+
+	47 .write a program to do matrix transpose.
+		ans : 47.c 
+
+	48 .write a program to do sum of main diagonal and off diagonal in matrix.
+		ans : 48.c 
+
+	
