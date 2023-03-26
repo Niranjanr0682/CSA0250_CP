@@ -1,0 +1,31 @@
+    assignment 27/03/2023
+
+    1. C Program For Converting Temperature Celsius Into Fahrenheit
+        ans : 27032023\1as.c
+
+    2. C Program For Check You Are Eligible For Voting Or Not
+        ans : 27032023\2as.c
+
+    3. Program of Armstrong Number in C Using For Loop & While Loop
+        ans : 27032023\3as.c
+
+    4. Program to Find LCM of Two Numbers in C Using While Loop
+        ans : 27032023\4as.c
+
+    5. String Palindrome Program in C
+        ans : 27032023\5as.c
+
+    6. C Program to Display Prime Numbers Between Intervals Using Using Function
+        ans : 27032023\6as.c
+
+    7. C Program For Reverse a String Using Pointers
+        ans : 27032023\7as.c
+
+    8. Structure Program for Student Details in C
+        ans : 27032023\8as.c
+
+    9. Left Half Diamond Star Pattern
+        ans : 27032023\9as.c
+
+    10.C Program For MERGE Sort In Ascending Order
+        ans : 27032023\10as.c
