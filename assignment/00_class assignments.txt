@@ -1,0 +1,265 @@
+assignment 1 21/03/2023
+	
+	1.compile and execute the c program to find the laregst and smallest among 3 input numbers
+		ans : 21032023\larofnos.c
+
+	2.compile and execute the c program to compute grade of students using if else ladder the grades are assigned 
+	as 				marks			grades
+					<50			F
+					50<=m<60		C	
+					60<=m<70		B
+					70<=m<80		B+
+					80<=m<90		A
+					90<=m<=100		A+
+		ans : 21032023\grdsys.c
+
+assignment 2 22/03/2023
+
+	1.compile and execute the c program to calculate arithmatic operators functions such as pow(x,n),add(x,n),
+	sum(x,n) mul(x,n) div(x,n) where x and n are the twu operands. get the input choice from the user.
+		ans : 22032023\AO210323.c
+
+	2.compile and execute the c program to change all the digits of the number to bring the digit at the last
+	position to the first position and vise versa using loop get the input from the user 
+		ans : 22032023\reverse210323.c
+
+	3. compile and execute the c program to find the factorial of the positive integer
+		ans : 22032023\factoposi210323.c
+
+assignment 3 23/03/2023
+
+    1. What will be the output if you execute the following code in C?
+ 	        #include<stdio.h>
+            int main()
+            {   int arr[]={6,12,18,24};
+                int x=0;
+                x=arr[1]+(arr[1]=2);
+                printf("%d",x);
+                return 0;}                                  ans : 23032023\1q.c
+
+	2. What will be the output if you execute the following code in C?
+            #include<stdio.h>
+            #include<conio.h>
+            void main()
+            {   int i=3,val;
+                val=sizeof f(i)+ +f(i=1)+ +f(i-1);
+                printf("%d %d",val,i);
+            }
+            int f(int num)
+            {   
+                return num*5;
+            }                                               ans : 23032023\2q.c
+
+	3. What will be the output of following c program?
+            #include<stdio.h>
+            #include<conio.h>
+            float avg(float,float,float);
+            void main()
+            {   float p=1,q=2,r=-2,a;
+                a=avg(p,(q=4,r=-12,q),r);
+                printf("%f",a);  
+            }
+            float avg(float x,float y,float z)
+            {
+                return (x+y+z)/3;
+            }                                               ans : 23032023\3q.c
+
+	4. Predict the output or error(s) for the following program:
+
+            void main()
+            {
+                int const * p=5;
+                printf("%d",++(*p));
+            }                                               ans : 23032023\4q.c
+
+	5. Predict the output or error(s) for the following program:
+            main()
+            {
+                int c[ ]={2.8,3.4,4,6.7,5};
+                int j,*p=c,*q=c;
+                for(j=0;j<5;j++) {
+                printf(" %d ",*c);
+                ++q; }
+                for(j=0;j<5;j++){
+                printf(" %d ",*p);
+                ++p; }
+            }                                               ans : 23032023\5q.c
+
+	6. Predict the output or error(s) for the following program:
+            main()
+            {
+                char string[]="Hello World";
+                display(string);
+            }
+            void display(char *string)
+            {
+                printf("%s",string);
+            }                                               ans : 23032023\6q.c
+
+	7. Print the following hill pattern , 
+	Each line contains n characters = space+number
+            When n=5
+                    1        
+                  1 2
+                1 2 3
+              1 2 3 4
+            1 2 3 4 5                                       ans : 23032023\7q.c
+
+	
+    8.  Find the index  of first occurrence of X in the array of N elements,
+        if the element not present then print -1            ans : 23032023\8q.c
+
+	9. What will be output of following c program?
+
+            #include "string.h"
+            typedef struct stu1
+            {
+                char name1[6];
+                char name2[6];
+                double marks;
+            }STU1;
+            void main()
+            {
+                STU1 s1={"rohit","kumar",87.43},*p1;
+                char *p;
+                p1=&s1;
+                p=memchr(p1,'u',sizeof(STU1));
+                printf("%s",p);  
+            }                                               ans : 23032023\9q.c
+
+	10. Predict the output or error(s) for the following program:
+            #define square(x) x*x
+            main()
+            {
+                int i;
+                i = 64/square(4);
+                printf("%d",i);
+            }                                               ans : 23032023\10q.c
+
+    
+    assignment 4 24/03/2023
+
+       1. Write a C program to input three numbers from user and find maximum between three numbers using 
+    conditional/ternary operator ?:. How to find maximum between three numbers using conditional 
+    operator.
+    .                                           ans : 24032023\asq1.c
+
+    2. Write a C program to input a character and check whether the character is alphabet or not using
+    Conditional/Ternary operator ?:. How to check alphabets using conditional operator in C programming.
+    .                                           ans : 24032023\asq12.c
+
+    3. Write a C program to find sum of all odd numbers from 1 to n using for loop. How to find sum of
+    all odd numbers in a given range in C programming. Logic to find sum of odd numbers in a given 
+    range using loop in C programming.
+    .                                           ans : 24032023\asq3.c
+
+    4. Write a C program to find maximum occurring character in a string using loop. How to find highest
+    frequency character in a string using loop in C programming. Program to find the highest occurring 
+    character in a string in C. Logic to find maximum occurring character in a string in C programming.
+    .                                           ans : 24032023\asq4.c
+
+    5. Find Error/Output in follwing code:
+            #include <stdio.h> 
+            int tmp=20; 
+            main( ) 
+            {   printf("%d ",tmp);    
+                func( );    
+                printf("%d ",tmp); 
+            } 
+            func() 
+            {   static int tmp=10;    
+                printf("%d ",tmp); 
+            }                                   ans : 24032023\asq5.c
+
+    6. Find Error/Output in follwing code:
+
+            main() 
+            {
+                int a = 10;      
+                if ((fork ( ) == 0))      
+                a++;      
+                printf ("%dn", a ); 
+            }                                   ans : 24032023\asq6.c
+
+    7. What is the code in a while loop that returns the output of the given code?
+
+            #include <stdio.h>
+            int main () 
+            {
+                int a;
+                /* for loop execution */
+                for( a = 1; a <= 100; a++ )
+                    {printf("%d\n",a * a);}
+                return 0;
+            }                                   ans : 24032023\asq7.c
+
+    8. What will be the output of the program if the array begins 1200 in memory?
+            
+            #include<stdio.h>
+            int main()
+            {   
+                int arr[]={2, 3, 4, 1, 6};  
+                printf("%u, %u, %un", arr, &arr[0], &arr);  
+                return 0;
+            }                                   ans : 24032023\asq8.c
+            
+    9. What will be the output of the program ?
+          
+            #include<stdio.h>
+            void fun(int **p);
+            int main()
+            {   
+                int a[3][4] = {1, 2, 3, 4, 4, 3, 2, 8, 7, 8, 9, 0}; 
+                int *ptr; 
+                ptr = &a[0][0];  
+                fun(&ptr); 
+                return 0;
+            }
+            void fun(int **p)
+            {
+                printf("%dn", **p);
+            }                                   ans : 24032023\asq9.c
+
+    10.	Write a program that would sort a list of names in alphabetical order Ascending 
+    or Descending, choice get from the user?
+            
+            Sample Input:       
+                Banana          sample output : 
+                Carrot          Apple
+                Radish          Banana
+                Apple           Carrot
+                Jack            Jack
+Order(A/D) : A                  Radish         ans : 24032023\asq10.c
+
+
+    assignment 27/03/2023
+
+    1. C Program For Converting Temperature Celsius Into Fahrenheit
+        ans : 27032023\1as.c
+
+    2. C Program For Check You Are Eligible For Voting Or Not
+        ans : 27032023\2as.c
+
+    3. Program of Armstrong Number in C Using For Loop & While Loop
+        ans : 27032023\3as.c
+
+    4. Program to Find LCM of Two Numbers in C Using While Loop
+        ans : 27032023\4as.c
+
+    5. String Palindrome Program in C
+        ans : 27032023\5as.c
+
+    6. C Program to Display Prime Numbers Between Intervals Using Using Function
+        ans : 27032023\6as.c
+
+    7. C Program For Reverse a String Using Pointers
+        ans : 27032023\7as.c
+
+    8. Structure Program for Student Details in C
+        ans : 27032023\8as.c
+
+    9. Left Half Diamond Star Pattern
+        ans : 27032023\9as.c
+
+    10.C Program For MERGE Sort In Ascending Order
+        ans : 27032023\10as.c

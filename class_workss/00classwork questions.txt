@@ -149,4 +149,6 @@ Class worked questions:
 	48 .write a program to do sum of main diagonal and off diagonal in matrix.
 		ans : 48.c 
 
+	49 .write a program to do simple calculator using switch case.
+		ans : 49.C
 	
