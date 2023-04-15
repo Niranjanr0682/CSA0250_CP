@@ -150,5 +150,13 @@ Class worked questions:
 		ans : 48.c 
 
 	49 .write a program to do simple calculator using switch case.
-		ans : 49.C
+		ans : 49.c
 	
+	50 .write a program to Print all odd numbers in the array, get input from user.
+		ans : 50.c
+
+	51 .write a program to convert feet to inch.
+		ans : 51.c
+
+	52 .write a program to convert inch to feet.
+		ans : 52.c
