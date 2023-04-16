@@ -178,3 +178,15 @@ Class worked questions:
 
 	58 .write a program to print even numbers upto n.
 		ans : 58.c
+
+	59 .write a program to print sum of first n numbers using loop.
+		ans : 59.c
+
+	60 .write a program to print sum of all odd numbers up to n.
+		ans : 60.c
+
+	61 .write a program to print sum of all even numbers up to n.
+		ans : 61.c
+
+	62 .write a program to show all the factors of a number.
+		ans : 62.c
