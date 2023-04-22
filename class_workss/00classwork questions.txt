@@ -190,3 +190,18 @@ Class worked questions:
 
 	62 .write a program to show all the factors of a number.
 		ans : 62.c
+
+	63 .write a program to show smallest factor of a number n (except 1).
+		ans : 63.c
+
+	64 .write a program to show largest factor of a given number n 
+		(other than the number itself).
+		ans : 64.c
+
+	65 .write a program to check the given number is perfect number.
+		ans : 65.c
+
+	66 .write a program to check the given number is prime or not.
+		ans : 66.c 
+
+	
