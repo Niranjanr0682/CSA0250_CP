@@ -7,13 +7,9 @@ int main(void)
     printf("Enter an integer : ");
     scanf("%i", &n);
     for(int i=2; i<=n/2; i++)
-        {
-            if(n%i==0)
-        {
-            check=0;
-            break;
-        }
-        }
+        {if(n%i==0)
+            {check=0;
+            break;}}
     if(check==1 && n != 1)
         printf("The given number %i is Prime number!",n);
     else

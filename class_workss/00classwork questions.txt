@@ -213,4 +213,6 @@ Class worked questions:
 	69 .write a program to print fibonacci series using recursion.
 		ans : 69.c 
 
-		
+	70 .write a program to find the factorial of the given number using loop.
+		ans : 70.c
+
