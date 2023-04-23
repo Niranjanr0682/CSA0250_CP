@@ -224,3 +224,8 @@ Class worked questions:
 
 	73 .write a program to find wether its armstrong number or not uisng for loop.
 		ans : 73.c
+
+	74 .write a program to print armstrong number between two integers.
+		ans : 74.c
+
+	
