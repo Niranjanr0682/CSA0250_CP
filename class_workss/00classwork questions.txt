@@ -204,4 +204,13 @@ Class worked questions:
 	66 .write a program to check the given number is prime or not.
 		ans : 66.c 
 
-	
+	67 .write a program to print fibonacci series upto n number of terms.
+		ans : 67.c
+
+	68 .write a program to print fibonacci series upto a certain number.
+		ans : 68.c
+
+	69 .write a program to print fibonacci series using recursion.
+		ans : 69.c 
+
+		
