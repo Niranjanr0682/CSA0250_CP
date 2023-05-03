@@ -132,7 +132,7 @@ Class worked questions:
 		ans : 42.c 
 
 	43 .write a program to do matrix multiplication.
-		ans : 42.c
+		ans : 43.c
 
 	44 .write a program to do matrix subtraction.
 		ans : 44.c
