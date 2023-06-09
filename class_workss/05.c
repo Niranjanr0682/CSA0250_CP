@@ -7,7 +7,7 @@ int main()
     int a,b,c,d,e ;
     printf("enter pick up point :");
     scanf("%d",&d);
-    printf("enter pick up point :");
+    printf("enter drop point :");
     scanf("%d",&e);
     printf("enter total distance :");
     scanf("%d",&a);
