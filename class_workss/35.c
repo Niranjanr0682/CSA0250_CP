@@ -5,8 +5,10 @@ swap (int *, int *);
 int main()
 {
     int a, b;
-    printf("\nEnter value of a & b:\n");
-    scanf("%d %d", &a, &b);
+    printf("\nEnter first value:");
+    scanf("%d", &a );
+    printf("\nEnter second value:");
+    scanf("%d %d", &b);
     printf("\nBefore Swapping:\n");
     printf("\na = %d\nb = %d\n", a, b);
     swap(&a, &b);
