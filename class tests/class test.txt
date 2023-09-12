@@ -1,0 +1,27 @@
+    class test 23/03/2023 :
+
+    1. write a program in c to count the total number of vowels or consonants in a string
+    2. write a program in c to display the number in reverse order
+    3. write a program in c to calculate factorial for given number 
+    4. write a program in c to seperate individual characters from a string
+    5. write a program in c to copy one string to another string and print number of characters copied
+    6. write a program in c to display the cube of the number upto an integer
+    7. write a program in c to print individual characters of the string in reverse order 
+    8. write a program in c to print sum and average of first 10 numbers
+
+    class test 24/03/2023 :
+
+    1. write a program in c to find the GCD of two numbers using for loop
+    2. write a program in c to find the matrix subtraction
+    3. write a program in c for print "I am expert in C" instead of your name using array
+    4. write a program in c to swap elements using call by reference
+    5. write a program in c to do matrix transpose
+    6. write a program in c to do simple calculator using switch case
+    7. write a program in c to do sum of natural numbers using while loop
+    8. write a program in c for matrix multiplication
+    9. write a program in c such that the program will read the elements of a one dimentional
+       array,then compares the elements and finds which the largest two elements are in a given 
+       array.
+    10.write a c program to convert lowercase to uppercase and vise versa
+    11 write a progarm in c to find sum of diagonal elements in array
+    12.write a program in c to reverse a number using while loop

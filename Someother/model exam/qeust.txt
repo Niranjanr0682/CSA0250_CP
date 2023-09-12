@@ -1,0 +1,16 @@
+// Write a program that would sort a list of names in alphabetical order
+//  Ascending or Descending, choice get from the user?
+
+
+reverse a string using loop
+
+consonants and vwels seperately
+fact of n
+find nth odd after n odd
+lcm gcd
+patten pramid patten num 
+half patten 
+fibonacchi
+is prime 
+permutationprint longest word in given
+reverse num using fun

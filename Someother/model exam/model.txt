@@ -1,0 +1,7 @@
+to check armstong and perefct using function
+write a program to find wether the person is eligible for vote or not 
+	if that particular person is not eligible then print how namy years left 
+write a progarm to print no of vowels in the given statement 
+write a program to fing the sun of digits of n digit number 
+leap year or not
+write a program to find sum and avj of number in matrix

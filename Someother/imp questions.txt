@@ -1,0 +1,34 @@
+matrix multi 
+sum of main and off diagonal of a suare matrix 
+avg and sum of aray 
+reeverse a num using fun '
+reverse a string using fun
+reverse sentence 
+swap number using call by reference 
+reverse an array
+floyd triangle 
+length of sentence using pointer 
+factorial using pointer
+laragest and smallest using function 
+composite number and array
+number patten
+1
+22
+333
+negative numbers in an array
+add 2 numbers using pointers
+leap year using date fromat
+star patten 
+eligible to vote
+no of vowels in gievn sentence
+decimal to binary conversion 
+print odd and even inbetween m and n 
+pythogoraus theourm 
+find the given sentence vowels and consonants
+removing vowel from string
+anagram check
+fibonacci series between inter vals
+check for armstong number 
+prime number b/w m and n 
+odd between n and m 
+even b/w n and m 
