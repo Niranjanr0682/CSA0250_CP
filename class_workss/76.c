@@ -19,4 +19,4 @@ void main()
     midY=(y1+y2)/2;
     printf(" Slope of given line : %.2f",slope);
     printf(" Midpoint of gn line : (%.2f,%.2f)",midX,midY);
-}
+    }

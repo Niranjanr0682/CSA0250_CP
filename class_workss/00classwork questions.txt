@@ -6,7 +6,7 @@ Class worked questions:
 
 	2. 	write a program to find wether the person is eligible for vote or not and if that particular person is
 	 	not eligible then print how many years are left to be eligible.
-		ans : 02.c
+		ans : 02.
 	
 	3.  write a program to find the area of the rectangle.
 		ans : 03.c
