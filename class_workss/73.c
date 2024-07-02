@@ -9,12 +9,12 @@ int main()
     float result = 0.0;
     printf("Enter an integer: ");
     scanf("%d", &num);
-    orino = num;                                // store the number of digits of num in n
+    orino = num;                                
     for (orino = num; orino != 0; ++n) 
         {orino /= 10;}
     for (orino = num; orino != 0; orino /= 10) 
-        {r = orino % 10;                        // store the sum of the power of individual digits in result
-        result += pow(r, n);}                   // if num is equal to result, the number is an Armstrong number
+        {r = orino % 10;                        
+        result += pow(r, n);}          
    
     if ((int)result == num)
         printf("%d is an Armstrong number.", num);
